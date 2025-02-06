@@ -1,0 +1,29 @@
+body {
+	margin: 20px 5px 50px 5px;
+}
+a {
+	display: block;
+}
+a:hover {
+	color: green;
+}
+.main_title {
+	text-align: center;
+}
+.h1_class {
+	color: blue;
+}
+.first_p {
+	font-family: "Times New Roman", serif;
+	color: green;
+}
+.second_p {
+	font-family: "Arial Narrow", serif;
+	color: #808000;
+}
+.main_hr {
+	width: 100%;
+	height: 3px;
+	margin: 20px 0px;
+	background: black;
+}
